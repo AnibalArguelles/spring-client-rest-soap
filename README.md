@@ -1,1 +1,0 @@
-# spring-client-rest-soap
